@@ -1,0 +1,119 @@
+.header{
+    width: 100%;
+    min-height: 100px;
+    background-color: rgb(51, 50, 50);
+}
+.header h4{
+    font-size: 2vw;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.navbar
+{
+    width: 100%;
+    min-height: 80px;
+    background-color: rgb(152, 150, 150);
+    
+}
+.navbar a
+{
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+.navbar a:hover
+{
+    background-color: rgb(229, 223, 223);
+    color: black;
+}
+.Slider
+{
+    width: 100%;
+    min-height: 400px;
+    background-color: rgb(73, 72, 72);
+}
+ .menu p{
+    font-size: 1vw;
+    color: white;
+    text-align: justify;
+
+}
+.info
+{
+    background-color: rgb(191, 184, 184);
+    color: black;
+    width: 100%;
+    min-height: 500px;
+}
+.gr
+{
+    background-color: rgb(94, 92, 92);
+    /* margin: 5px; */
+    border: 2px solid white;
+}
+.gr img{
+    width: 100%;
+     min-height: 200px;
+
+}
+.gr p{
+    font-size: 1vw;
+    color: white;
+    text-align: justify;
+}
+.gb
+{
+    
+
+    background-color: rgb(184, 180, 180);
+    border: 2px solid white;
+}
+.gb img{
+    width: 100%;
+     min-height: 200px;
+
+}
+.gb p{
+    font-size: 1vw;
+    color: white;
+    text-align: justify;
+}
+.do{
+    background-color: rgb(94, 92, 92);
+    border: 2px solid white;
+}
+.do img{
+    width: 100%;
+    min-height: 200px;
+}
+.do p{
+    font-size: 1vw;
+    color: white;
+    text-align: justify;
+}
+.video
+{
+    background-color: gray;
+
+}
+.video .v
+{
+    width: 80%;
+}
+
+.footer
+{
+    background-color: rgb(165, 162, 162);
+    width: 100%;
+    height: 100px;
+
+}
+.footer h3{
+    font-size: 2vw;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
